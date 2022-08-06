@@ -1,0 +1,15 @@
+C:\Users\anlin\OneDrive\Документы\C#HomeWork\bin\Debug\net6.0\C#HomeWork.exe
+C:\Users\anlin\OneDrive\Документы\C#HomeWork\bin\Debug\net6.0\C#HomeWork.deps.json
+C:\Users\anlin\OneDrive\Документы\C#HomeWork\bin\Debug\net6.0\C#HomeWork.runtimeconfig.json
+C:\Users\anlin\OneDrive\Документы\C#HomeWork\bin\Debug\net6.0\C#HomeWork.dll
+C:\Users\anlin\OneDrive\Документы\C#HomeWork\bin\Debug\net6.0\C#HomeWork.pdb
+C:\Users\anlin\OneDrive\Документы\C#HomeWork\obj\Debug\net6.0\C#HomeWork.csproj.AssemblyReference.cache
+C:\Users\anlin\OneDrive\Документы\C#HomeWork\obj\Debug\net6.0\C#HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anlin\OneDrive\Документы\C#HomeWork\obj\Debug\net6.0\C#HomeWork.AssemblyInfoInputs.cache
+C:\Users\anlin\OneDrive\Документы\C#HomeWork\obj\Debug\net6.0\C#HomeWork.AssemblyInfo.cs
+C:\Users\anlin\OneDrive\Документы\C#HomeWork\obj\Debug\net6.0\C#HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\anlin\OneDrive\Документы\C#HomeWork\obj\Debug\net6.0\C#HomeWork.dll
+C:\Users\anlin\OneDrive\Документы\C#HomeWork\obj\Debug\net6.0\refint\C#HomeWork.dll
+C:\Users\anlin\OneDrive\Документы\C#HomeWork\obj\Debug\net6.0\C#HomeWork.pdb
+C:\Users\anlin\OneDrive\Документы\C#HomeWork\obj\Debug\net6.0\C#HomeWork.genruntimeconfig.cache
+C:\Users\anlin\OneDrive\Документы\C#HomeWork\obj\Debug\net6.0\ref\C#HomeWork.dll

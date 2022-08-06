@@ -1,25 +1,11 @@
-﻿Console.Write("ввелите число a=");
+﻿Console.Write("введите число a=");
 
 int number = int.Parse(Console.ReadLine());
-Console.Write("ввелите число b=");
+Console.Write("введите число b=");
 
 int number1 = int.Parse(Console.ReadLine());
-if (number > number1)
-{
-    Console.WriteLine($"число {number} >{number1}");
-
-}
-else
-{
-    Console.WriteLine($"число {number1} >{number}");
-}
-
-
-
-
-
-
-
-
-
-
+Console.Write("введите число c=");
+int number2 = int.Parse(Console.ReadLine());
+int max;
+max = Math.Max(number, Math.Max(number1, number2));
+Console.WriteLine(max);
