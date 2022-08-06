@@ -8,4 +8,4 @@ Console.Write("введите число c=");
 int number2 = int.Parse(Console.ReadLine());
 int max;
 max = Math.Max(number, Math.Max(number1, number2));
-Console.WriteLine(max);
+Console.WriteLine(max); GCNotificationStatus
